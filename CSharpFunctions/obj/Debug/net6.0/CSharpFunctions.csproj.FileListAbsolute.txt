@@ -1,0 +1,15 @@
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\bin\Debug\net6.0\CSharpFunctions.exe
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\bin\Debug\net6.0\CSharpFunctions.deps.json
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\bin\Debug\net6.0\CSharpFunctions.runtimeconfig.json
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\bin\Debug\net6.0\CSharpFunctions.dll
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\bin\Debug\net6.0\CSharpFunctions.pdb
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\CSharpFunctions.csproj.AssemblyReference.cache
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\CSharpFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\CSharpFunctions.AssemblyInfoInputs.cache
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\CSharpFunctions.AssemblyInfo.cs
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\CSharpFunctions.csproj.CoreCompileInputs.cache
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\CSharpFunctions.dll
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\refint\CSharpFunctions.dll
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\CSharpFunctions.pdb
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\CSharpFunctions.genruntimeconfig.cache
+D:\EserciziGIT\CSharpFunctions\CSharpFunctions\obj\Debug\net6.0\ref\CSharpFunctions.dll

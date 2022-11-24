@@ -1,0 +1,15 @@
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\Bonus.csproj.AssemblyReference.cache
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfoInputs.cache
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\Bonus.AssemblyInfo.cs
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\Bonus.csproj.CoreCompileInputs.cache
+D:\EserciziGIT\CSharpFunctions\Bonus\bin\Debug\net6.0\Bonus.exe
+D:\EserciziGIT\CSharpFunctions\Bonus\bin\Debug\net6.0\Bonus.deps.json
+D:\EserciziGIT\CSharpFunctions\Bonus\bin\Debug\net6.0\Bonus.runtimeconfig.json
+D:\EserciziGIT\CSharpFunctions\Bonus\bin\Debug\net6.0\Bonus.dll
+D:\EserciziGIT\CSharpFunctions\Bonus\bin\Debug\net6.0\Bonus.pdb
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\Bonus.dll
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\refint\Bonus.dll
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\Bonus.pdb
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\Bonus.genruntimeconfig.cache
+D:\EserciziGIT\CSharpFunctions\Bonus\obj\Debug\net6.0\ref\Bonus.dll
